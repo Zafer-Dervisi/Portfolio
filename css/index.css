@@ -1,0 +1,16 @@
+
+
+/* Extra Small & Small (Mobile) */
+@media screen and (max-width: 576px) {
+    
+}
+
+/* Medium (Tablet) */
+@media screen and (max-width: 768px) {
+    
+}
+
+/* Large, Extra Large, Extra Extra Large (Monitor screens)*/
+@media screen and (min-width: 769px) {
+    
+}
